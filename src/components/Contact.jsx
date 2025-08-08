@@ -21,19 +21,19 @@ const Contact = () => {
     {
       icon: <Mail className="h-5 w-5" />,
       label: "Email",
-      value: "your.email@example.com",
+      value: "ashu1179@gmail.com",
       href: "mailto:your.email@example.com"
     },
-    {
-      icon: <Phone className="h-5 w-5" />,
-      label: "Phone",
-      value: "+1 (555) 123-4567",
-      href: "tel:+15551234567"
-    },
+    // {
+    //   icon: <Phone className="h-5 w-5" />,
+    //   label: "Phone",
+    //   value: "+1 (555) 123-4567",
+    //   href: "tel:+15551234567"
+    // },
     {
       icon: <MapPin className="h-5 w-5" />,
       label: "Location",
-      value: "Your City, Country",
+      value: "India",
       href: null
     }
   ]
